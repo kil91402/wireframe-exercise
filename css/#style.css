@@ -8,10 +8,9 @@ section {
     width: 960px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between
+    justify-content: space-between;    
+   
 }
 
-#smBox {
-    float: left;
-}
+
 
