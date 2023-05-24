@@ -11,3 +11,7 @@ section {
     justify-content: space-between
 }
 
+#smBox {
+    float: left;
+}
+
